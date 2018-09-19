@@ -1,5 +1,5 @@
 # Apricity-for-myGnome
-[Apricity os](https://apricityos.com) theme with transparent elements for Gnome desktop environments. 
+[Condres OS ufficial fork Apricity os](https://condresos.codelinsoft.it) theme with transparent elements for Gnome desktop environments. 
 
 ![A screenshot of the Apricity theme](https://github.com/AnasBoulmane/Apricity-for-myGnome/blob/dev/images/Capture%204.png)
 
